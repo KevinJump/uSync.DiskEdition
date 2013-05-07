@@ -1,4 +1,5 @@
-== usync.diskedition ==
+usync.diskedition
+=================
 
 just playing about with Microsoft Sync framework.
 
